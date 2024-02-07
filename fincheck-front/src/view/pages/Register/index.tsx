@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import Input from "../../components/Input";
-import Button from "../Button";
+import Button from "../../components/Button";
 
 export default function Register() {
   return (
